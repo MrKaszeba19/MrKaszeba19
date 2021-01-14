@@ -13,7 +13,7 @@ Some facts:
     * computing mathematical data
     * databases
 
->U siebie rób jak u siebie, czyli zawsze mocne 30%. ;)
+>U siebie rób jak u siebie – a jak dawać z siebie, to zawsze mocne 30%. ;)
 
 <!--
 **RooiGevaar19/RooiGevaar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
