@@ -3,7 +3,7 @@
 I'm a Kashubian programmer and mathematician. :black_heart: :yellow_heart:
 
 Some facts:
-- I graduated at the University of Gdańsk (Computer Science, Web apps and databases, bachelor) and now I'm studying Mathematics for teaching there.
+- I graduated at the University of Gdańsk (**Computer Science, Web apps and databases**, bachelor) and now I'm studying **Mathematics for teaching** there.
 - I worked as a junior PostgreSQL database administrator, now I'm working with SQL Server 2016.
 - I speak Kashubian (*my national one*), Polish (*mostly used*), English, German and Hebrew
 - My beloved language is **FreePascal**, but I can do more – **PostgreSQL**, **T-SQL/SQL Server**, JavaEE, JavaSE, Kotlin, JS, C/C++, Oracle SQL, **Bash shell**, Batch etc.
