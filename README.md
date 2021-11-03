@@ -9,8 +9,7 @@ Some facts:
 - My beloved language is **FreePascal** (programming various things for 13 years), but I can do more – **PostgreSQL**, **T-SQL/SQL Server**, JavaEE, JavaSE, Kotlin, JS, C/C++, Oracle SQL, **Bash shell**, Batch etc.
 - **Unix/Linux** systems freak :smiling_imp:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RooiGevaar19)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooiGevaar19)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooiGevaar19&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -27,6 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RooiGevaar19)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooiGevaar19)](https://github.com/anuraghazra/github-readme-stats)
 
 - My cyberhobbies are:
     * building own software from scratch
