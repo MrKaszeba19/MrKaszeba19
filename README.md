@@ -14,6 +14,9 @@ Some facts:
     * computing mathematical data
     * databases
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RooiGevaar19)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **RooiGevaar19/RooiGevaar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
