@@ -7,6 +7,7 @@ Some facts:
 - I worked as a junior PostgreSQL database administrator and MS-SQL programmer.
 - I speak Kashubian (*my national one*), Polish (*mostly used*), English, German and Hebrew
 - My beloved language is **FreePascal** (programming various things for almost 15 years), but I can do more – **PostgreSQL**, **T-SQL/SQL Server**, JavaEE, JavaSE, Kotlin, JS, C/C++, Oracle SQL, **Bash shell**, Batch etc.
+- programming for fun :stuck_out_tongue_winking_eye:
 - **Unix/Linux** systems freak :smiling_imp:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RooiGevaar19&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
