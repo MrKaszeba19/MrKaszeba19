@@ -6,8 +6,8 @@ Some facts:
 - I graduated at the University of Gdańsk (**Computer Science, Web apps and databases**, bachelor) and now I'm studying **Mathematics for teaching** (currently doing Masters degree) there. :school:
 - I worked as a junior PostgreSQL database administrator and MS-SQL programmer.
 - Currently I teach Maths, and I love it
-- I speak Kashubian (*my national one*), Polish (*mostly used*), English, German and Hebrew
-- My beloved language is **FreePascal** (programming various things for almost 15 years), but I can do more – **PostgreSQL**, **T-SQL/SQL Server**, JavaEE, JavaSE, Kotlin, JS, C/C++, Oracle SQL, **Bash shell**, Batch etc.
+- I speak Kashubian (*my national one*), Polish (*mostly used*), English, German, French and Hebrew
+- My beloved language is **FreePascal** (programming various things for almost 15 years), but I can do more – **PostgreSQL**, **T-SQL/SQL Server**, **Bash shell**, JavaEE, JavaSE, Kotlin, JS, C/C++, Oracle SQL, Batch.
 - programming for fun :stuck_out_tongue_winking_eye:
 - **Unix/Linux** systems freak :smiling_imp:
 
